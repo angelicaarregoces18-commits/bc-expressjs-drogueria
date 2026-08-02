@@ -1,0 +1,14 @@
+[
+  { "id": "p001", "name": "Acetaminofén 500mg x20", "category": "medicamentos", "price": 8500, "stock": 40, "active": true },
+  { "id": "p002", "name": "Ibuprofeno 400mg x10", "category": "medicamentos", "price": 6200, "stock": 25, "active": true },
+  { "id": "p003", "name": "Arroz Diana 500g", "category": "abarrotes", "price": 3200, "stock": 60, "active": true },
+  { "id": "p004", "name": "Aceite Girasol 1L", "category": "abarrotes", "price": 11800, "stock": 18, "active": true },
+  { "id": "p005", "name": "Alcohol Antiséptico 250ml", "category": "cuidado_personal", "price": 5400, "stock": 30, "active": true },
+  { "id": "p006", "name": "Jabón Protex 90g", "category": "cuidado_personal", "price": 3900, "stock": 50, "active": true },
+  { "id": "p007", "name": "Leche Entera 1L", "category": "lacteos", "price": 4300, "stock": 0, "active": false },
+  { "id": "p008", "name": "Vitamina C 1g x10", "category": "medicamentos", "price": 9800, "stock": 22, "active": true },
+  { "id": "p009", "name": "Panela Redonda 500g", "category": "abarrotes", "price": 2800, "stock": 45, "active": true },
+  { "id": "p010", "name": "Shampoo Herbal 400ml", "category": "cuidado_personal", "price": 14500, "stock": 15, "active": true },
+  { "id": "p011", "name": "Suero Oral 250ml", "category": "medicamentos", "price": 4700, "stock": 33, "active": true },
+  { "id": "p012", "name": "Yogurt Natural 200g", "category": "lacteos", "price": 2500, "stock": 0, "active": false }
+]

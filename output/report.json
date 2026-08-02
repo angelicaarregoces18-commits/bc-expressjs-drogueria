@@ -1,0 +1,63 @@
+{
+  "generatedAt": "2026-08-01T18:37:03.411Z",
+  "appliedFilter": "medicamentos",
+  "summary": {
+    "total": 4,
+    "active": 4,
+    "inactive": 0,
+    "averagePrice": 7300,
+    "mostExpensive": {
+      "id": "p008",
+      "name": "Vitamina C 1g x10",
+      "category": "medicamentos",
+      "price": 9800,
+      "stock": 22,
+      "active": true
+    },
+    "cheapest": {
+      "id": "p011",
+      "name": "Suero Oral 250ml",
+      "category": "medicamentos",
+      "price": 4700,
+      "stock": 33,
+      "active": true
+    },
+    "categories": [
+      "medicamentos"
+    ]
+  },
+  "products": [
+    {
+      "id": "p001",
+      "name": "Acetaminofén 500mg x20",
+      "category": "medicamentos",
+      "price": 8500,
+      "stock": 40,
+      "active": true
+    },
+    {
+      "id": "p002",
+      "name": "Ibuprofeno 400mg x10",
+      "category": "medicamentos",
+      "price": 6200,
+      "stock": 25,
+      "active": true
+    },
+    {
+      "id": "p008",
+      "name": "Vitamina C 1g x10",
+      "category": "medicamentos",
+      "price": 9800,
+      "stock": 22,
+      "active": true
+    },
+    {
+      "id": "p011",
+      "name": "Suero Oral 250ml",
+      "category": "medicamentos",
+      "price": 4700,
+      "stock": 33,
+      "active": true
+    }
+  ]
+}
